@@ -1,0 +1,9 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: menu
+
+com:
+  cathy:
+    order: http://localhost:9006

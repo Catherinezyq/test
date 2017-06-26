@@ -1,0 +1,9 @@
+server:
+  port: 9006
+spring:
+  application:
+    name: order
+  cloud:
+      stream:
+        bindings:
+          output: orders
